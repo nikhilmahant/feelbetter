@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "homepage": "https://nikhilmahant.github.io/App.tsx",
+    "homepage": "https://nikhilmahant.github.io/feelbetter/src/App.tsx",
   },
   "dependencies": {
     "framer-motion": "^11.0.8",
